@@ -300,180 +300,170 @@ After completing these steps you will have corrected the data through self-servi
 <br> You can also click on the refresh icon on the right hand side
 <br>![](/exercises/ex2/images/DataPrep_ViewPrep_02_10_1new90.png)
 
-92. Click on the 'Lineage'tab
-<br>![](/exercises/ex2/images/DataPrep_Lineage_02_10_3new10.png)
-
-93. Notice you can trace the lineage of the Customer_Sales_#.csv was created.  
-<br>Note: replace # with the number assigned to you
-<br>![](/exercises/ex2/images/DataPrep_Lineage_02_10_3new20.png)
-
-
-
-
-94. Click the 'View in Browse' icon in the top upper right 
+92. Click the 'View in Browse' icon in the top upper right 
 <br> Note: this will take you directly to the Browse Connections where your Customer_Sales_# file is located
 <br>![](/exercises/ex2/images/DataPrep_RuleBook_02_10_3new10.png)
 
-98. Click on the ellipsis (...) for 'Customer_Sales_#.csv'
+93. Click on the ellipsis (...) for 'Customer_Sales_#.csv'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Catalog_02_10_2new60.png)
 
-99. Click on 'New Publication'
+94. Click on 'New Publication'
 <br>![](/exercises/ex2/images/DataPrep_Catalog_02_10_2new70.png)
 
-100. Enter 'Customer_Sales_#' for publication name
+95. Enter 'Customer_Sales_#' for publication name
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Catalog_02_10_2new80.png)
 
-101. Click 'Publish'
+96. Click 'Publish'
 <br>![](/exercises/ex2/images/DataPrep_Catalog_02_10_2new90.png)
 
-102. Click on the refresh icon on the top right to confirm your Customer_Sales_# is now published
+97. Click on the refresh icon on the top right to confirm your Customer_Sales_# is now published
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Catalog_02_10_2new100.png)
 
 ## Bind our new 'Customer_Sales" to our country rule
 
-103. Click on 'Data Intelligence Metadata Explorer'
+98. Click on 'Data Intelligence Metadata Explorer'
 <br>![](/exercises/ex2/images/DataPrep_RuleBook_02_10_1new10.png)
 
-104. Click on 'Rules'
+99. Click on 'Rules'
 <br>![](/exercises/ex2/images/DataPrep_RuleBook_02_10_2new10.png)
 
-105. Click on 'View Rulebooks' from within Rules
+100. Click on 'View Rulebooks' from within Rules
 <br>![](/exercises/ex2/images/DataPrep_RuleBook_02_10.png)
 
-106. Click on your 'TechEdDAT163_#'
+101. Click on your 'TechEdDAT163_#'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_RuleBook_02_30_3new10.png)
 
-107. Expand Accuracy rule category by clicking on the '>'
+102. Expand Accuracy rule category by clicking on the '>'
 <br>![](/exercises/ex2/images/DataPrep_RuleBook_02_1new_10.png)
 
-108. Click on the ellipsis (...) to the right under Rule Bindings
+103. Click on the ellipsis (...) to the right under Rule Bindings
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_20.png)
 
-109. Click on 'View Rule Bindings'
+104. Click on 'View Rule Bindings'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_30.png)
 
-110. Click on the upper '+' in the upper right hand corner to Create a Rule Binding
+105. Click on the upper '+' in the upper right hand corner to Create a Rule Binding
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_40.png)
 
-111. Click on the 'Browse' icon for 'Qualified Name'
+106. Click on the 'Browse' icon for 'Qualified Name'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_50.png)
 
-112. Click on 'Browse' tab
+107. Click on 'Browse' tab
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_60.png)
 
-113. Click on the drop down arrow for 'Connections'
+108. Click on the drop down arrow for 'Connections'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_70.png)
 
-114. Select 'DI_DATA_LAKE'
+109. Select 'DI_DATA_LAKE'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_80.png)
 
-115. Click on 'shared'
+110. Click on 'shared'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_90.png)
 
-116. Select 'TechEd_DAT163_#'
+111. Select 'TechEd_DAT163_#'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_95.png)
 
-117. Select 'Customer_Sales_#.csv'
+112. Select 'Customer_Sales_#.csv'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_100.png)
 
-118. Click 'OK'
+113. Click 'OK'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_110.png)
 
-119. Click 'Save'
+114. Click 'Save'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_120.png)
 
-120. Click 'Run All'
+115. Click 'Run All'
 <br>![](/exercises/ex2/images/DataPrep_Rulebook_02_1new_130.png)
+
+116. Click on 'Data Intelligence Metadata Explorer'
+<br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new10.png)
+
+117. Click on 'Monitor'
+<br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new20.png)
+
+118. Click on 'Monitor Tasks'
+<br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new30.png)
+
+119. Notice your Rulebook is running
+<br>![](/exercises/ex2/images/DataPrep_Monitor_02_10_1new10.png)
+
+120. Wait for you Rulebook to Complete
+<br>![](/exercises/ex2/images/DataPrep_Monitor_02_10_1new20.png)
 
 121. Click on 'Data Intelligence Metadata Explorer'
 <br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new10.png)
 
-122. Click on 'Monitor'
-<br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new20.png)
-
-123. Click on 'Monitor Tasks'
-<br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new30.png)
-
-124. Notice your Rulebook is running
-<br>![](/exercises/ex2/images/DataPrep_Monitor_02_10_1new10.png)
-
-125. Wait for you Rulebook to Complete
-<br>![](/exercises/ex2/images/DataPrep_Monitor_02_10_1new20.png)
-
-126. Click on 'Data Intelligence Metadata Explorer'
-<br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new10.png)
-
-127. Click on 'Rules'
+122. Click on 'Rules'
 <br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new40.png)
 
-128. Click on 'View Rulebooks'
+123. Click on 'View Rulebooks'
 <br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new50.png)
 
-129. Click on your 'TechEdDAT163_#'
+124. Click on your 'TechEdDAT163_#'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/Updated_1_20_2021.png)
 
-130. Click on 'View Results'
+125. Click on 'View Results'
 <br>![](/exercises/ex2/images/DataPrep_RuleBookResults_02_1new10.png)
 
-131. If you get a popup to confirm the updated Rule Results, click 'Yes' 
+126. If you get a popup to confirm the updated Rule Results, click 'Yes' 
 <br>![](/exercises/ex2/images/DataPrep_RuleBookResults_02_2new10.png)
 
-132. Notice your quality has improved from your Data Preparation
+127. Notice your quality has improved from your Data Preparation
 <br>![](/exercises/ex2/images/DataPrep_RuleBookResults_02_1new20.png)
 
-133. Click on 'Data Intelligence Metadata Explorer'
+128. Click on 'Data Intelligence Metadata Explorer'
 <br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new10.png)
 
-134. Click on 'Rules'
+129. Click on 'Rules'
 <br>![](/exercises/ex2/images/DataPrep_DIMenu_02_10_1new40.png)
 
-135. Click on 'View Rules Dashboards'
+130. Click on 'View Rules Dashboards'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_10_1new10.png)
 
-136.  'TechEd_DAT163_#'
+131.  'TechEd_DAT163_#'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_20.png)
 
-137. Click on the pencil icon located on the right hand side
+132. Click on the pencil icon located on the right hand side
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_30.png)
 
-138. Click on the '+' (plus sign) located next to your first dashboard
+133. Click on the '+' (plus sign) located next to your first dashboard
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_40.png)
 
-139. Click on the drop down and select 'TechEd_DAT163_#'
+134. Click on the drop down and select 'TechEd_DAT163_#'
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_50.png)
 
-140. Click on 'Step 2'
+135. Click on 'Step 2'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_60.png)
 
-141. Notice, 'Datasets is already selected; Click on 'Step 3'
+136. Notice, 'Datasets is already selected; Click on 'Step 3'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_70.png)
 
-142. Select 'Single Dataset'
+137. Select 'Single Dataset'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_80.png)
 
-143. Click on 'Step 4'
+138. Click on 'Step 4'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_90.png)
 
-144. Select ‘Customer_Sales_#' as dataset
+139. Select ‘Customer_Sales_#' as dataset
 <br>Note: replace # with the number assigned to you
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_100.png)
 
-145. Click on 'Step 5'
+140. Click on 'Step 5'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_110.png)
 
-146. Click on 'Save'
+141. Click on 'Save'
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_120.png)
 
-147. You have now created a new dashboard for your combined Customer and Sales file
+142. You have now created a new dashboard for your combined Customer and Sales file
 <br>![](/exercises/ex2/images/DataPrep_Dashboard_02_1new_130.png)
 
 
