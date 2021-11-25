@@ -15,7 +15,7 @@ This session provides attendees an overview of data governance capabilities avai
 The requirements to follow the exercises in this repository are to use a Chrome web browser
 
 ## Pre-Requisites
-1. [Register](register.cfapps.eu10.hana.ondemand.com) to obtain your username and password
+1. Your instructor will share username and password
 2. Click on 'Customers_US2.parguet' file (listed above)
 <br>![](/exercises/ex0/images/PreRequisite_10.png)
 3. Click 'Download' 'Customers_US2.parguet' file
